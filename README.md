@@ -18,4 +18,4 @@ To use the online payment gateway in the app please use the testing card details
 Card Number : 4111 1111 1111 1111  Expiry : 11/23  CVV : 111
 
 # About the Developers
-Developed by Souraja Dasray and Harsh Pridarshi - 4th year | B.Tech IT students @ KIIT University.
+Developed by Souraja Dasray and Harsh Priyadarshi - 4th year | B.Tech IT students @ KIIT University.
